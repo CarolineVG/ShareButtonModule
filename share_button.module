@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function share_button_theme() {
+  return [
+    'share-media' => [
+      'variables' => ['name' => NULL],
+    ],
+  ];
+}

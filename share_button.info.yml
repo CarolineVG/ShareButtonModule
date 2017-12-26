@@ -1,0 +1,6 @@
+name: share button
+type: module
+description: 'Configure share button.'
+core: 8.x
+package: IMD
+dependencies: system
